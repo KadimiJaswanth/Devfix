@@ -161,7 +161,7 @@ export default function Home() {
         {/* Additional hero content below the geometric section */}
         <div className="px-6 pb-20 text-center">
           <p className="text-lg md:text-xl text-gray-300 dark:text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Discover the most powerful development tools, resources, and platforms that top developers use to build amazing software. From code editors to deployment platforms - we've curated everything you need to accelerate your development workflow.
+            Discover the most powerful development tools, resources, and platforms that top developers use to build amazing software. From code editors to deployment platforms - we&apos;ve curated everything you need to accelerate your development workflow.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
@@ -220,7 +220,7 @@ export default function Home() {
               Essential Developer Tools
             </h2>
             <p className="text-lg text-gray-400 dark:text-gray-600 max-w-2xl mx-auto">
-              Handpicked tools that power the world's best development teams
+              Handpicked tools that power the world&apos;s best development teams
             </p>
           </div>
 
@@ -360,7 +360,7 @@ export default function Home() {
           <div className="mt-16 grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             <div className="p-6 bg-white/5 dark:bg-black/5 border border-white/10 dark:border-black/10 rounded-xl backdrop-blur-sm">
               <p className="text-gray-300 dark:text-gray-700 mb-4 italic">
-                "Devfix newsletter keeps me updated on all the latest tools. It's become an essential part of my weekly routine."
+                &ldquo;Devfix newsletter keeps me updated on all the latest tools. It&apos;s become an essential part of my weekly routine.&rdquo;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 bg-white/20 dark:bg-black/20 rounded-full flex items-center justify-center">
@@ -375,7 +375,7 @@ export default function Home() {
             
             <div className="p-6 bg-white/5 dark:bg-black/5 border border-white/10 dark:border-black/10 rounded-xl backdrop-blur-sm">
               <p className="text-gray-300 dark:text-gray-700 mb-4 italic">
-                "The tool recommendations are spot-on. I've discovered 5+ tools that are now essential to my workflow."
+                &ldquo;The tool recommendations are spot-on. I&apos;ve discovered 5+ tools that are now essential to my workflow.&rdquo;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 bg-white/20 dark:bg-black/20 rounded-full flex items-center justify-center">
